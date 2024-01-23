@@ -22,9 +22,10 @@ Sou um apaixonado pela área de TI e estava há mais de 2 anos atuando na equipe
 |![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)|![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)|-|![Kanban](https://img.shields.io/badge/Kanban-red)|-|
 |![Java](https://img.shields.io/badge/java-000.svg?style=flat&logo=openjdk&logoColor=white)|-|![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)|-|-|-|
 |![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=sql&logoColor=white)|-|![Orange Testing](https://img.shields.io/badge/Orange-Testing-orange?style=flat&labelColor=black)|-|-|-|
-|-|-|![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=Selenium)|-|-|-|
+|![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?style=flat&logo=typescript&logoColor=white)|-|![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=Selenium)|-|-|-|
 |-|-|![Cypress](https://img.shields.io/badge/Cypress-black?style=flat&logo=cypress)|-|-|-|
 |-|-|![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)|-|-|-|
+|-|-|![ANGULAR](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)|-|-|-|
 
 ### GitHub Stats
 
