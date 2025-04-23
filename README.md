@@ -1,6 +1,6 @@
 # Pedro Henrique Oliveira
 
-Meu nome é Pedro, tenho 32 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
+Meu nome é Pedro, tenho 33 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
 
 Sou um apaixonado pela área de TI e estava há mais de 2 anos atuando na equipe de desenvolvimento de URAs e chatbot de whatsApp, utilizando linguagens JavaScript e Java, testando e desenvolvendo APIs entre a plataforma Twilio, sistemas da DASA e seus parceiros.
 
