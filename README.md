@@ -2,7 +2,7 @@
 
 Meu nome é Pedro, tenho 33 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
 
-Sou um apaixonado pela área de TI e estava há mais de 2 anos atuando na equipe de desenvolvimento de URAs e chatbot de whatsApp, utilizando linguagens JavaScript e Java, testando e desenvolvendo APIs entre a plataforma Twilio, sistemas da DASA e seus parceiros.
+Sou um apaixonado pela área de TI e atuo a mais de 4 anos atuando em desenvolvimento de URAs, chatbot de whatsApp na plataforma twilio, bem como desenvolvendo APIs e microsserviços utilizando linguagens JavaScript e Java.
 
 ![matrix](https://github.com/PedroCaput/PedroCaput/assets/111527058/ac30c7ae-feea-4a85-9995-4d5b7ad2c11d)
 
