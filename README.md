@@ -1,8 +1,8 @@
 # Pedro Henrique Oliveira
 
-Meu nome é Pedro, tenho 33 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
+Meu nome é Pedro, tenho 34 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
 
-Sou um apaixonado pela área de TI e atuo a mais de 4 anos atuando em desenvolvimento de URAs, chatbot de whatsApp na plataforma twilio, bem como desenvolvendo APIs e microsserviços utilizando linguagens JavaScript e Java.
+Sou um apaixonado pela área de TI, trabalho a mais de 5 anos com desenvolvimento de URAs, chatbot de whatsApp na plataforma twilio, desenvolvendo APIs e microsserviços utilizando as linguagens JavaScript e Java.
 
 ![matrix](https://github.com/PedroCaput/PedroCaput/assets/111527058/ac30c7ae-feea-4a85-9995-4d5b7ad2c11d)
 
