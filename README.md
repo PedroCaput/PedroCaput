@@ -1,6 +1,6 @@
 # Pedro Henrique Oliveira
 
-Meu nome é Pedro, tenho 34 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
+Meu nome é Pedro, tenho 35 anos e sou um profissional competente, responsável e comunicativo, apaixonado por conhecimentos e evolução. 
 
 Sou um apaixonado pela área de TI, trabalho a mais de 5 anos com desenvolvimento de URAs, chatbot de whatsApp na plataforma twilio, desenvolvendo APIs e microsserviços utilizando as linguagens JavaScript e Java.
 
@@ -9,7 +9,6 @@ Sou um apaixonado pela área de TI, trabalho a mais de 5 anos com desenvolviment
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/pedro_cpt)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:pedro.cpt@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/Pedrocaput/)
 
