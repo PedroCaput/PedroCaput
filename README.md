@@ -26,8 +26,4 @@ Sou um apaixonado pela área de TI, trabalho a mais de 5 anos com desenvolviment
 |-|-|![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)|-|-|-|
 |-|-|![ANGULAR](https://img.shields.io/badge/Angular-E34F26?style=flat&logo=angular&logoColor=white)|-|-|-|
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroCaput&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroCaput&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
